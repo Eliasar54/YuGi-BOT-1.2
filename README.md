@@ -1,5 +1,5 @@
-###`instalacion no disponible debido a que se esta actualizando`
+`instalacion no disponible debido a que se esta actualizando`
 
-``bash
+```bash
 eres gay ?
 ```
